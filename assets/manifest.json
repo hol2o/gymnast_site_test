@@ -1,0 +1,252 @@
+[
+  {
+    "file": "ui/logo-header.png",
+    "size": [
+      500,
+      107
+    ],
+    "kind": "cropped-upscaled",
+    "source": "/mnt/data/mock_refs/ui_logo_header_ref.png",
+    "note": "Logo cropped from mockup and upscaled for practical use."
+  },
+  {
+    "file": "ui/logo-footer.png",
+    "size": [
+      500,
+      114
+    ],
+    "kind": "cropped-upscaled",
+    "source": "/mnt/data/mock_refs/ui_logo_footer_ref.png",
+    "note": "Logo cropped from mockup and upscaled for practical use."
+  },
+  {
+    "file": "hero/hero-main-action.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "kind": "regenerated",
+    "source": "/mnt/data/ghostwriter_images/generated/a_dramatic_sports_action_scene_in_a_large_indoor_a_1.png",
+    "note": "High-resolution regenerated asset."
+  },
+  {
+    "file": "profile/profile-portrait.webp",
+    "size": [
+      1122,
+      1402
+    ],
+    "kind": "regenerated",
+    "source": "/mnt/data/ghostwriter_images/generated/a_sharp_high_resolution_indoor_gymnastics_trainin_2.png",
+    "note": "High-resolution regenerated asset."
+  },
+  {
+    "file": "contact/contact-rings.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "kind": "regenerated",
+    "source": "/mnt/data/ghostwriter_images/generated/a_crisp_photorealistic_close_up_shot_inside_a_mod_9_batch_7.png",
+    "note": "High-resolution regenerated asset."
+  },
+  {
+    "file": "support/support-bg-silhouette.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "kind": "regenerated",
+    "source": "/mnt/data/ghostwriter_images/generated/a_clean_minimalist_sports_themed_abstract_backgro_10_batch_8.png",
+    "note": "High-resolution regenerated asset."
+  },
+  {
+    "file": "news/megaphone-icon.png",
+    "size": [
+      400,
+      321
+    ],
+    "kind": "cropped-upscaled",
+    "source": "/mnt/data/mock_refs/news_megaphone_ref.png",
+    "note": "PNG crop from mockup, upscaled for small-card use."
+  },
+  {
+    "file": "news/trophy.webp",
+    "size": [
+      900,
+      540
+    ],
+    "kind": "cropped-upscaled",
+    "source": "/mnt/data/mock_refs/news_trophy_ref.png",
+    "note": "Web-ready crop, upscaled for thumbnail use."
+  },
+  {
+    "file": "news/notebook.webp",
+    "size": [
+      900,
+      540
+    ],
+    "kind": "cropped-upscaled",
+    "source": "/mnt/data/mock_refs/news_notebook_ref.png",
+    "note": "Web-ready crop, upscaled for thumbnail use."
+  },
+  {
+    "file": "news/camera-rig.webp",
+    "size": [
+      900,
+      540
+    ],
+    "kind": "cropped-upscaled",
+    "source": "/mnt/data/mock_refs/news_camera_rig_ref.png",
+    "note": "Web-ready crop, upscaled for thumbnail use."
+  },
+  {
+    "file": "news/newspaper.webp",
+    "size": [
+      900,
+      540
+    ],
+    "kind": "cropped-upscaled",
+    "source": "/mnt/data/mock_refs/news_newspaper_ref.png",
+    "note": "Web-ready crop, upscaled for thumbnail use."
+  },
+  {
+    "file": "news/camera.webp",
+    "size": [
+      900,
+      540
+    ],
+    "kind": "cropped-upscaled",
+    "source": "/mnt/data/mock_refs/news_camera_ref.png",
+    "note": "Web-ready crop, upscaled for thumbnail use."
+  },
+  {
+    "file": "gallery/gallery-01-floor.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "kind": "regenerated",
+    "source": "/mnt/data/ghostwriter_images/generated/a_dynamic_sports_action_scene_in_an_indoor_gymnast_3_batch_1.png",
+    "note": "High-resolution regenerated gallery image."
+  },
+  {
+    "file": "gallery/gallery-02-pommel-horse.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "kind": "regenerated",
+    "source": "/mnt/data/ghostwriter_images/generated/a_crisp_high_resolution_action_photo_inside_a_mod_4_batch_2.png",
+    "note": "High-resolution regenerated gallery image."
+  },
+  {
+    "file": "gallery/gallery-03-high-bar.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "kind": "regenerated",
+    "source": "/mnt/data/ghostwriter_images/generated/a_sharp_high_resolution_sports_photograph_inside_5_batch_3.png",
+    "note": "High-resolution regenerated gallery image."
+  },
+  {
+    "file": "gallery/gallery-04-award.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "kind": "regenerated",
+    "source": "/mnt/data/ghostwriter_images/generated/a_bright_indoor_sports_venue_portrait_scene_a_you_6_batch_4.png",
+    "note": "High-resolution regenerated gallery image."
+  },
+  {
+    "file": "gallery/gallery-05-parallel-bars.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "kind": "regenerated",
+    "source": "/mnt/data/ghostwriter_images/generated/a_realistic_sports_photograph_in_an_indoor_gymnasi_7_batch_5.png",
+    "note": "High-resolution regenerated gallery image."
+  },
+  {
+    "file": "gallery/gallery-06-team.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "kind": "regenerated",
+    "source": "/mnt/data/ghostwriter_images/generated/a_bright_indoor_sports_gymnasium_team_portrait_wi_8_batch_6.png",
+    "note": "High-resolution regenerated gallery image."
+  },
+  {
+    "file": "videos/video-01-floor.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "kind": "derived",
+    "source": "/mnt/data/ghostwriter_images/generated/a_dynamic_sports_action_scene_in_an_indoor_gymnast_3_batch_1.png",
+    "note": "Derived from regenerated high-resolution asset for video thumbnail use."
+  },
+  {
+    "file": "videos/video-02-training.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "kind": "derived",
+    "source": "/mnt/data/ghostwriter_images/generated/a_crisp_high_resolution_action_photo_inside_a_mod_4_batch_2.png",
+    "note": "Derived from regenerated high-resolution asset for video thumbnail use."
+  },
+  {
+    "file": "videos/video-03-growth-record.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "kind": "derived",
+    "source": "/mnt/data/ghostwriter_images/generated/a_sharp_high_resolution_sports_photograph_inside_5_batch_3.png",
+    "note": "Derived from regenerated high-resolution asset for video thumbnail use."
+  },
+  {
+    "file": "videos/video-04-highlight.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "kind": "derived",
+    "source": "/mnt/data/ghostwriter_images/generated/a_dramatic_sports_action_scene_in_a_large_indoor_a_1.png",
+    "note": "Derived from regenerated high-resolution asset for video thumbnail use."
+  },
+  {
+    "file": "blog/blog-01-profile.webp",
+    "size": [
+      1122,
+      1402
+    ],
+    "kind": "derived",
+    "source": "/mnt/data/ghostwriter_images/generated/a_sharp_high_resolution_indoor_gymnastics_trainin_2.png",
+    "note": "Derived from profile portrait."
+  },
+  {
+    "file": "blog/blog-02-chalk.webp",
+    "size": [
+      900,
+      824
+    ],
+    "kind": "cropped-upscaled",
+    "source": "/mnt/data/mock_refs/blog_02_chalk_ref.png",
+    "note": "Cropped from mockup and upscaled for small-card use."
+  },
+  {
+    "file": "blog/blog-03-new-skill.webp",
+    "size": [
+      900,
+      848
+    ],
+    "kind": "cropped-upscaled",
+    "source": "/mnt/data/mock_refs/blog_03_new_skill_ref.png",
+    "note": "Cropped from mockup and upscaled for small-card use."
+  }
+]
