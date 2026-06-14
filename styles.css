@@ -66,6 +66,7 @@ img { display: block; max-width: 100%; object-fit: cover; }
 .nav a:hover { color: var(--blue); border-color: #2e78d6; }
 .icons { display: flex; gap: 13px; color: var(--blue); font-weight: 900; }
 
+/* Athlete photo backgrounds use existing files under assets/rin/. */
 .hero {
   position: relative;
   isolation: isolate;
