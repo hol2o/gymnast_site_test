@@ -76,7 +76,11 @@ img { display: block; max-width: 100%; object-fit: cover; }
   padding: 76px max(34px, 7vw);
   overflow: hidden;
   background:
-    linear-gradient(90deg, rgba(255,255,255,0.97) 0%, rgba(255,255,255,0.86) 35%, rgba(255,255,255,0.08) 68%),
+    linear-gradient(90deg, rgba(4,11,28,0.96) 0%, rgba(7,18,43,0.84) 34%, rgba(8,20,48,0.48) 58%, rgba(5,10,23,0.70) 100%),
+    linear-gradient(180deg, rgba(0,0,0,0.24) 0%, rgba(0,0,0,0.08) 42%, rgba(0,0,0,0.62) 100%),
+    radial-gradient(circle at 76% 22%, rgba(74,156,255,0.50) 0%, rgba(24,102,203,0.24) 26%, rgba(8,20,48,0) 52%),
+    radial-gradient(circle at 48% 0%, rgba(27,106,214,0.34) 0%, rgba(27,106,214,0) 45%),
+    radial-gradient(ellipse at 18% 52%, rgba(0,0,0,0.36) 0%, rgba(0,0,0,0) 58%),
     url('assets/rin/IMG_9446.JPG') center right / cover no-repeat;
 }
 .hero::after {
@@ -102,10 +106,14 @@ img { display: block; max-width: 100%; object-fit: cover; }
 }
 .line-one { left: 3vw; top: 105px; }
 .line-two { left: 18vw; bottom: 88px; animation-delay: -3s; }
-.hero-copy { max-width: 540px; }
+.hero-copy {
+  max-width: 540px;
+  color: rgba(255,255,255,0.94);
+  text-shadow: 0 3px 18px rgba(0,0,0,0.42);
+}
 .headline {
   margin: 0 0 18px;
-  color: #073b83;
+  color: #f6fbff;
   font-size: clamp(38px, 5vw, 62px);
   font-weight: 900;
   letter-spacing: 0.04em;
@@ -116,7 +124,7 @@ img { display: block; max-width: 100%; object-fit: cover; }
 .athlete span { font-size: 15px; letter-spacing: 0.04em; }
 .meta { margin: 0 0 30px; font-weight: 700; }
 .meta div { display: flex; }
-.meta dt { color: #315b95; }
+.meta dt { color: #9dccff; }
 .meta dd { margin: 0; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: 18px; }
 .btn {
@@ -297,11 +305,17 @@ th { width: 34%; color: #163e78; background: #f2f6fb; font-weight: 900; }
   .hero {
     min-height: 640px;
     align-items: flex-start;
+    padding: 42px 18px 260px;
     background:
-      linear-gradient(rgba(255,255,255,0.96), rgba(255,255,255,0.58)),
-      url('assets/rin/IMG_9446.JPG') 58% bottom / cover no-repeat;
+      linear-gradient(180deg, rgba(5,12,29,0.82) 0%, rgba(6,16,39,0.56) 44%, rgba(3,8,20,0.32) 100%),
+      linear-gradient(90deg, rgba(4,10,24,0.78) 0%, rgba(8,20,48,0.34) 58%, rgba(5,11,25,0.28) 100%),
+      radial-gradient(circle at 70% 30%, rgba(74,156,255,0.32) 0%, rgba(24,102,203,0.16) 30%, rgba(8,20,48,0) 58%),
+      url('assets/rin/IMG_9446.JPG') 60% bottom / cover no-repeat;
   }
   .btn { width: 100%; }
+  html { scroll-padding-top: 130px; }
+  .section,
+  .support { scroll-margin-top: 130px; }
   .section { padding: 36px 16px 8px; }
   .news-grid,
   .gallery-grid,
@@ -315,7 +329,20 @@ th { width: 34%; color: #163e78; background: #f2f6fb; font-weight: 900; }
   .sns-buttons { grid-template-columns: 1fr; }
   .tabs { grid-template-columns: 1fr 1fr; }
   .profile-layout { gap: 18px; }
-  .portrait { height: 430px; }
+  .portrait { height: 430px; object-fit: contain; object-position: center center; background: #eef5ff; }
+  .news-grid img,
+  .gallery-grid img,
+  .movie-grid img,
+  .blog-grid img,
+  .contact img {
+    object-fit: contain;
+    object-position: center center;
+    background: #eef5ff;
+  }
+  .gallery-grid img,
+  .movie-grid img { height: 260px; }
+  .news-grid img,
+  .blog-grid img { height: 220px; }
   .blog-grid article { grid-template-columns: 1fr; }
   .contact label { grid-template-columns: 1fr; }
   .contact button { margin-left: 0; }
