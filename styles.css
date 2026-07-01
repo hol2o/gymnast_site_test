@@ -331,7 +331,16 @@ th { width: 34%; color: #163e78; background: #f2f6fb; font-weight: 900; }
   .sns-buttons { grid-template-columns: 1fr; }
   .tabs { grid-template-columns: 1fr 1fr; }
   .profile-layout { gap: 18px; }
-  .portrait { height: 430px; }
+  .portrait { height: 430px; object-fit: contain; object-position: center center; background: #eef5ff; }
+  .news-grid img,
+  .gallery-grid img,
+  .movie-grid img,
+  .blog-grid img,
+  .contact img {
+    object-fit: contain;
+    object-position: center center;
+    background: #eef5ff;
+  }
   .gallery-grid img,
   .movie-grid img { height: 260px; }
   .news-grid img,
